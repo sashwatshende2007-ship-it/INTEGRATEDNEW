@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\TestCore.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\TestCore.dir/objects.a @CMakeFiles\TestCore.dir\objects1.rsp
+C:\MinGW\bin\c++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\TestCore.dir/objects.a -Wl,--no-whole-archive -o TestCore.exe -Wl,--out-implib,libTestCore.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TestCore.dir\linkLibs.rsp

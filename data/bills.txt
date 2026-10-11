@@ -1,0 +1,2 @@
+# BillID,PatientID,Consultation,Medicine,Room,Test,Total,Status,Method,Date
+401,101,500,750,2000,400,3650,PENDING,Pending,2026-10-11

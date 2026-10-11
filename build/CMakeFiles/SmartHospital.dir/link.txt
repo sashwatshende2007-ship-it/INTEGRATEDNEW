@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\SmartHospital.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\SmartHospital.dir/objects.a @CMakeFiles\SmartHospital.dir\objects1.rsp
+C:\MinGW\bin\c++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\SmartHospital.dir/objects.a -Wl,--no-whole-archive -o SmartHospital.exe -Wl,--out-implib,libSmartHospital.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SmartHospital.dir\linkLibs.rsp

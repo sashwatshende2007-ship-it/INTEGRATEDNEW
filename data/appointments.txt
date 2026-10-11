@@ -1,0 +1,5 @@
+# ApptID,PatientID,DoctorID,DateTime,Reason,Priority,Status
+301,101,201,2026-10-12 10:00 AM,Cardiology Followup,1,SCHEDULED
+302,102,203,2026-10-12 11:30 AM,General Health Review,3,SCHEDULED
+303,103,203,2026-10-13 02:00 PM,Diabetes Medication Check,3,SCHEDULED
+304,104,204,2026-10-13 04:15 PM,Orthopedic Plaster Assessment,2,SCHEDULED

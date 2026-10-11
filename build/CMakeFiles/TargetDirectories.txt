@@ -1,0 +1,4 @@
+C:/integrated/build/CMakeFiles/SmartHospital.dir
+C:/integrated/build/CMakeFiles/TestCore.dir
+C:/integrated/build/CMakeFiles/edit_cache.dir
+C:/integrated/build/CMakeFiles/rebuild_cache.dir

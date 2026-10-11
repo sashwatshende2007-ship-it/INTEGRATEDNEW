@@ -1,0 +1,9 @@
+# ID,Name,Generic,Category,Manufacturer,Price,Quantity,Reorder,Expiry,Batch
+M001,Paracetamol,Acetaminophen,Antipyretic,Cipla,25,200,30,2027-12-31,B901
+M002,Amoxicillin,Amoxicillin Clavulanate,Antibiotic,Sun Pharma,120,80,20,2027-06-30,B902
+M003,Atorvastatin,Atorvastatin Calcium,Cardiac,Lupin,150,50,15,2028-03-31,B903
+M004,Ibuprofen,Ibuprofen 400mg,Analgesic,Abbott,45,120,25,2027-09-30,B904
+M005,Azithromycin,Azithromycin 500mg,Antibiotic,Zydus,180,40,15,2027-11-30,B905
+M006,Metformin,Metformin HCl 500mg,Antidiabetic,USV,35,150,30,2028-05-31,B906
+M007,Pantoprazole,Pantoprazole 40mg,Antacid,Alkem,65,90,20,2027-10-31,B907
+M008,Epinephrine,Adrenaline 1mg/ml,Emergency,Neon,95,15,10,2026-12-31,B908

@@ -1,0 +1,37 @@
+
+======================================================================
+                 SMART HOSPITAL MANAGEMENT SYSTEM                     
+                   MIT ACADEMY OF ENGINEERING                         
+======================================================================
+ Integrated Course Outcomes Demonstration:                            
+  - PSOOP (2310261L): OOP Domain Models, Inheritance, Polymorphism    
+  - DS/PL (2310214L): FixedArray, LinkedList, Stack, Queues, Hash     
+  - COA   (2310221L): 80386 Processor Simulation, Assembly, Pipeline   
+  - CG    (2310218L): OpenGL Dashboard, Top-Down View, Emergency Sim   
+----------------------------------------------------------------------
+ Team Members:                                                        
+  - Sashwat Shende (PRN: 202501100091)                                
+  - Smit Redij    (PRN: 202501100085)                                
+  - Vighnesh Chityal (PRN: 202501100084)                             
+  - Vedant Thakare (PRN: 202501100092)                                
+======================================================================
+
+Launching OpenGL Graphics Window in background thread (16:9 HD: 1280x720)...
+OpenGL Window initialized! You can interact via Console or GUI.
+
+=========================== MAIN MENU ============================
+  1.  Patient Management     (Registration, Search, Condition Update)
+  2.  Doctor Management      (Roster, Departments, Availability)    
+  3.  Appointment System     (FIFO Queue Scheduling - DS CO3)        
+  4.  Bed & Ward Management  (FixedArray Ward Beds - DS CO1)         
+  5.  Emergency Triage       (Min-Heap Priority Queue - DS CO3)      
+  6.  Pharmacy & Dispensing  (Inventory, Stock, Reorder Alerts)      
+  7.  Medical Records        (Doubly Linked List Chain - DS CO2)     
+  8.  Billing & Invoices     (Itemized Billing, Payment, Export)     
+  9.  COA 80386 Simulation   (Architecture, ASM, Arithmetic, Pipe)   
+  10. Hospital Visualization (OpenGL Architectural Top-Down View)    
+  11. Emergency Simulation   (OpenGL Real-time Cart Movement)        
+  12. Hospital System Status (Comprehensive Statistics & Audit Stack)
+  13. Exit Application                                               
+==================================================================
+Enter your choice [1 - 13]: 
